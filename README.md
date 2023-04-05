@@ -1,2 +1,1 @@
-# ABC_Python
-Comandos básicos em Python.
+# Google.Colab
